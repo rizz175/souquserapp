@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "334938611461",
+    "project_id": "trendbox-1f1b1",
+    "storage_bucket": "trendbox-1f1b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334938611461:android:5c1412d3c67b3244e3616c",
+        "android_client_info": {
+          "package_name": "com.cashbox.trendbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334938611461-i41dm0stacrci1thshra5i78tpad9tbl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cashbox.trendbox",
+            "certificate_hash": "59fe49fde4ad0deef8a71429a4695e756c61af5e"
+          }
+        },
+        {
+          "client_id": "334938611461-ihlh8n3dk113r5skmhc4ogi4b7kkg1od.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5plGg2bRRlLZJbLau6_XMfqrtMpuEGgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334938611461-ihlh8n3dk113r5skmhc4ogi4b7kkg1od.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "334938611461-110id3r69qf05ejpjcvvnpdk0pnl75o1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cashbox.trendboxseller"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334938611461:android:7f82362b0aa570f9e3616c",
+        "android_client_info": {
+          "package_name": "com.cashbox.trendboxseller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334938611461-ihlh8n3dk113r5skmhc4ogi4b7kkg1od.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5plGg2bRRlLZJbLau6_XMfqrtMpuEGgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334938611461-ihlh8n3dk113r5skmhc4ogi4b7kkg1od.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "334938611461-110id3r69qf05ejpjcvvnpdk0pnl75o1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cashbox.trendboxseller"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334938611461:android:25841a4fe818eff5e3616c",
+        "android_client_info": {
+          "package_name": "com.cashbox.trndboxadminprovider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334938611461-ihlh8n3dk113r5skmhc4ogi4b7kkg1od.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5plGg2bRRlLZJbLau6_XMfqrtMpuEGgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334938611461-ihlh8n3dk113r5skmhc4ogi4b7kkg1od.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "334938611461-110id3r69qf05ejpjcvvnpdk0pnl75o1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cashbox.trendboxseller"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
